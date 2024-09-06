@@ -10,3 +10,4 @@ docker run -it -d --name my-node-container -v /app -w /app node:18-slim
 
 # Colaboradores
 Alejandro Verdias Marin
+Javier Franco
